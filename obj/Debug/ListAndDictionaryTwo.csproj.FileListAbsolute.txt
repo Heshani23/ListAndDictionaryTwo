@@ -1,0 +1,7 @@
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\bin\Debug\ListAndDictionaryTwo.exe.config
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\bin\Debug\ListAndDictionaryTwo.exe
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\bin\Debug\ListAndDictionaryTwo.pdb
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\obj\Debug\ListAndDictionaryTwo.csproj.AssemblyReference.cache
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\obj\Debug\ListAndDictionaryTwo.csproj.CoreCompileInputs.cache
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\obj\Debug\ListAndDictionaryTwo.exe
+C:\Users\hmilr\source\repos\ListAndDictionaryTwo\obj\Debug\ListAndDictionaryTwo.pdb
